@@ -1,0 +1,8 @@
+{
+    "liveServer.settings.port": 5001,
+    "editor.formatOnSave": true,
+    "editor.codeActionsOnSave": {
+        // For ESLint
+        "source.fixAll.eslint": true
+    }
+}
